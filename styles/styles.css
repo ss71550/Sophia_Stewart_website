@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  font-family: serif;
+}
+H1 {
+  color: white;
+}
+P{
+  color: white;
+  font-family: san-serif;
+}
+s{
+  color: lightblue;
+}
+ul{
+  color: white
+}
+li{
+  color: white
+}
+dd{
+  color: white
+}
+h2{
+  color= "black"
+}
