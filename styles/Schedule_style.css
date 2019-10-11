@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-family: serif;
+    color: grey;
+    font-family: san-serif;
+    margin-left: 10px;
+    margin-right: 1048px;
+}
+
+H1 {
+    color: grey;
+    text-align: left;
+    margin-left: 10px;
+    background-color: lavender
+}
+
+#crumb {
+    color: purple
+}
