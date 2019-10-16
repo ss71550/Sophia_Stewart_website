@@ -8,6 +8,7 @@ H1 {
   text-align: left;
   margin-left: 10px;
   background-color: lavender
+      position:relative;
 }
 h2{
   color: grey;
@@ -16,6 +17,7 @@ h2{
   height: 30px;
   margin-left: 10px;
   margin-right: 10px;
+position:relative;
 }
 li{
   color: grey;
@@ -27,4 +29,5 @@ li{
 P{
   color: grey;
   font-family: san-serif;
+    position:relative;
 }
