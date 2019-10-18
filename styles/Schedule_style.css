@@ -1,4 +1,6 @@
-body {
-    margin-left: 10px;
-    margin-right: 1048px;
+table {
+    padding: .2%;
+    margin: 2%;
+    width: 95%;
+    color: darkslategrey;
 }

@@ -20,30 +20,45 @@ h2 {
 }
 
 li {
-    color: grey;
+    /*color: grey;*/
     font-family: san-serif;
 }
 
 #crumb {
-    color: purple
+    color: purple;
+    position: absolute;
+
+    left: 10px;
 }
 
-P {
+p {
     color: grey;
     font-family: san-serif;
 
 }
 
-.wrap{
-  padding: 10px;
+.wrap {
+    padding: 10px;
 }
+
 .Heading {
-  padding: .2%;
-  margin: .8%;
-  width: 97%
+    padding: .2%;
+    margin: .8%;
+    width: 97%
 }
-.content{
+
+.content {
     padding: .2%;
     margin: 2%;
     width: 70%;
+}
+
+img {
+    margin: 1.5%;
+    padding: .3%
+}
+
+#link {
+    margin: 5%;
+    padding: 1%;
 }
