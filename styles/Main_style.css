@@ -1,33 +1,49 @@
 body {
-  background-color: lightblue;
-  font-family: serif;
-  color: grey;
+    background-color: lightblue;
+    font-family: serif;
+    color: grey;
+    position: relative;
+    margin: 0;
 }
+
 H1 {
-  color: grey;
-  text-align: left;
-  margin-left: 10px;
-  background-color: lavender
-      position:relative;
+    color: grey;
+    text-align: left;
+    margin-left: 10px;
+
+    background-color: lavender
 }
-h2{
-  color: grey;
-  background-color: lavender;
-  width: 300px;
-  height: 30px;
-  margin-left: 10px;
-  margin-right: 10px;
-position:relative;
+
+h2 {
+    color: grey;
+    background-color: lavender;
 }
-li{
-  color: grey;
-  font-family: san-serif;
+
+li {
+    color: grey;
+    font-family: san-serif;
 }
-.crumb{
-  color: purple
+
+#crumb {
+    color: purple
 }
-P{
-  color: grey;
-  font-family: san-serif;
-    position:relative;
+
+P {
+    color: grey;
+    font-family: san-serif;
+
+}
+
+.wrap{
+  padding: 10px;
+}
+.Heading {
+  padding: .2%;
+  margin: .8%;
+  width: 97%
+}
+.content{
+    padding: .2%;
+    margin: 2%;
+    width: 70%;
 }
